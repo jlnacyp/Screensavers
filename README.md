@@ -3,4 +3,4 @@
 Pyqt5 + 爬虫 爬取 https://interfacelift.com 载入好看的壁纸
 
 ## 视频
-<iframe src="//player.bilibili.com/player.html?aid=443699015&bvid=BV1GL41167Z9&cid=1132362566&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+https://www.bilibili.com/video/BV1GL41167Z9/?vd_source=744b7f69df2a4c1d44f68a3ef492ff69
