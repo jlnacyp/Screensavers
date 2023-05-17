@@ -7,7 +7,7 @@ Pyqt5 + 爬虫 爬取 https://interfacelift.com 载入好看的壁纸
 
 - 这里是列表文本作者
 - QQ：1981564482
-- 微信：jlnacy
+- 微信：jlnacyp
 - CSDN：https://blog.csdn.net/qq_24537165?type=blog
 
 
